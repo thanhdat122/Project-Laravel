@@ -1,0 +1,3 @@
+fullname,email,password,address,phone,level,created_at,updated_at
+thanh ,thanh@gmail.com,123456,HN,1124123,1,2020-10-06T12:43:41.000000Z,2020-09-23T01:39:01.000000Z
+nam,nam@gmail.com,123456,HCM,1251233123,2,2020-09-21T06:46:48.000000Z,2020-09-21T06:46:48.000000Z
